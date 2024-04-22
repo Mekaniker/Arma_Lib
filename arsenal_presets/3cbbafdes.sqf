@@ -1,15 +1,17 @@
 /*
     3CB BAF Arsenal Preset
-    Last Update: 2020-05-08
+    Last Update: 2024-04-22
 
     Needed:
         - 3CB BAF Weapons   - https://steamcommunity.com/sharedfiles/filedetails/?id=893339590
         - 3CB BAF Equipment - https://steamcommunity.com/sharedfiles/filedetails/?id=893328083
+        - RHSUSAF - https://steamcommunity.com/sharedfiles/filedetails/?id=843577117
 
     Optional:
         - ACE  - https://steamcommunity.com/sharedfiles/filedetails/?id=463939057
         - ACRE - https://steamcommunity.com/sharedfiles/filedetails/?id=751965892
         - TFAR - https://steamcommunity.com/sharedfiles/filedetails/?id=894678801
+        - KAT Advanced Medical - https://steamcommunity.com/sharedfiles/filedetails/?id=2020940806
 */
 
 GRLIB_arsenal_weapons = [
