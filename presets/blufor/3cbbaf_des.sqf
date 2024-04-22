@@ -131,7 +131,7 @@ air_vehicles = [
     ["UK3CB_BAF_Wildcat_HMA2_TRN_8A_DDPM",250,0,125],                       // Wildcat HMA2 8 Transport (Unarmed)
     ["UK3CB_BAF_Wildcat_AH1_CAS_6C_DDPM",300,500,200],                      // Wildcat AH1 6 (CAS/AT)
     ["UK3CB_BAF_Wildcat_AH1_CAS_8C_DDPM",300,500,200],                      // Wildcat AH1 8 (CAS/AT)
-    ["RHS_CH_47F_10",275,250,175],                                          // CH-47 Chinook (Armed)
+    ["Boeing_CH_47_F_R",275,250,175],                                       // CH-47 Chinook (Armed)
     ["UK3CB_BAF_Merlin_HC3_32_DDPM",300,0,175],                             // Merlin HC3 32
     ["UK3CB_BAF_Merlin_HC3_CSAR_DDPM",500,400,250],                         // Merlin HC3 CSAR (Armed)
     ["FIR_C130J_Long",200,0,200],                                           // C-130J-30 (Cargo)
