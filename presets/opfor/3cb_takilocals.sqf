@@ -3,6 +3,8 @@
     - CUP Weapons
     - CUP Vehicles
     - CUP Units
+    - 3CB
+    - RHS
 
     Optional Mods:
     - Project Infinite AIO
