@@ -108,8 +108,7 @@ light_vehicles = [
     ["UK3CB_BAF_LandRover_WMIK_Milan_FFR_Sand_A_DDPM",150,300,80],          // Land Rover (ATGM)
     ["UK3CB_BAF_LandRover_Soft_FFR_Sand_A_DDPM",150,0,80],                  // Land Rover (Soft Top)
     ["UK3CB_BAF_LandRover_Hard_FFR_Sand_A_DDPM",150,0,80],                  // Land Rover (Hard Top)
-    ["UK3CB_BAF_LandRover_Snatch_FFR_Sand_A_DDPM",175,0,90],                // Land Rover (Snatch)
-    ["UK3CB_BAF_LandRover_Amb_FFR_Sand_A_DDPM",175,0,100],                  // Land Rover (Ambulance)
+    ["UK3CB_BAF_LandRover_Snatch_FFR_Sand_A_DDPM",175,0,90],                // Land Rover (Snatch) 
     ["UK3CB_BAF_Husky_Passenger_GMG_Sand_DDPM",225,250,100],                // Husky (GMG)
     ["UK3CB_BAF_Husky_Passenger_HMG_Sand_DDPM",225,200,100],                // Husky (HMG)
     ["UK3CB_BAF_Husky_Passenger_GPMG_Sand_DDPM",225,150,100],               // Husky (LMG)
@@ -261,6 +260,7 @@ support_vehicles = [
     ["UK3CB_BAF_Box_L16_Ammo",0,0,0],
     ["UK3CB_BAF_Box_M6_Ammo",0,0,0],
     ["B_APC_Tracked_01_CRV_F",500,250,350],                                 // CRV-6e Bobcat
+    ["UK3CB_BAF_LandRover_Amb_FFR_Sand_A_DDPM",175,0,100],                  // Land Rover (Ambulance)
     ["UK3CB_BAF_MAN_HX58_Fuel_Sand_DDPM",100,0,250],                        // MAN (Fuel)
     ["UK3CB_BAF_MAN_HX58_Repair_Sand_DDPM",300,0,80],                       // MAN (Repair)
     ["CUP_B_MTVR_Ammo_BAF_DES",100,250,80],                                 // MTVR (Ammo)
