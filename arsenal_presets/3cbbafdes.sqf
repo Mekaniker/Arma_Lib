@@ -207,6 +207,12 @@ GRLIB_arsenal_magazines = [
      "CUP_30Rnd_556x45_Stanag_Mk16_woodland",
      "CUP_20Rnd_TE1_Red_Tracer_762x51_FNFAL_Woodland_M",
      "CUP_30Rnd_556x45_PMAG_BLACK_Tracer_Red",
+     "CUP_30Rnd_556x45_Stanag_Tracer_Red",
+     "CUP_30Rnd_556x45_PMAG_OD_PULL_Tracer_Green",
+     "CUP_200Rnd_TE4_Red_Tracer_556x45_L110A1",
+     "CUP_30Rnd_556x45_PMAG_OD_PULL_Tracer_Yellow",
+     "CUP_1Rnd_SmokeYellow_M203",
+     "CUP_1Rnd_Smoke_M203",
 
     // Vanilla Standard Grenades & Explosives
     "APERSBoundingMine_Range_Mag",                                  // APERS Bounding Mine
