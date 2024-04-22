@@ -80,8 +80,6 @@ light_vehicles = [
     ["B_Quadbike_01_F",50,0,25],                                            // Quad Bike
     ["B_LSV_01_unarmed_F",75,0,50],                                         // Prowler
     ["B_LSV_01_armed_F",75,40,50],                                          // Prowler (HMG)
-    ["UK3CB_BAF_LandRover_Soft_FFR_Sand_A_DDPM",75,0,50],                   // Land Rover SoftTop
-    ["UK3CB_BAF_LandRover_Hard_FFR_Sand_A_DDPM",75,0,50],                   // Land Rover HardTop
     ["UK3CB_BAF_LandRover_WMIK_HMG_FFR_Sand_A_DDPM",100,40,50],             // Land Rover WMIK (HMG)
     ["UK3CB_BAF_LandRover_WMIK_GMG_FFR_Sand_A_DDPM",100,60,50],             // Land Rover WMIK (GMG)
     ["UK3CB_BAF_LandRover_WMIK_Milan_FFR_Sand_A_DDPM",100,100,50],          // Land Rover WMIK (Milan)
