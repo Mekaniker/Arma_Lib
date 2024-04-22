@@ -455,4 +455,11 @@ class Params {
         texts[] = {$STR_PARAMS_DISABLED, $STR_PARAMS_ENABLED};
         default = 0;
     };
+	class newCarTowing
+    {
+        title = $STR_params_newCarTowing;
+        values[] = {0,1};
+        texts[] = {$STR_antistasi_dialogs_generic_button_no_text,$STR_antistasi_dialogs_generic_button_yes_text};
+        default = 1;
+    };
 };
