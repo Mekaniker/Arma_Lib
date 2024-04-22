@@ -89,29 +89,42 @@ light_vehicles = [
     ["UK3CB_BAF_Jackal2_GMG_D_DDPM",100,100,50],                            // Jackal 2 (GMG)
     ["UK3CB_BAF_Coyote_Passenger_L111A1_D_DDPM",100,80,50],                 // Coyote Passenger (HMG)
     ["UK3CB_BAF_Coyote_Passenger_L134A1_D_DDPM",100,100,50],                // Coyote Passenger (GMG)
-    ["UK3CB_BAF_Coyote_Logistics_L111A1_D_DDPM",100,80,50],                 // Coyote Logistics (HMG)
-    ["UK3CB_BAF_Coyote_Logistics_L134A1_D_DDPM",100,100,50],                // Coyote Logistics (GMG)
-    ["rhsusf_M1230a1_usarmy_d",120,0,60],                                   // M1230A1 (MEDEVAC)
-    ["rhsusf_M1237_M2_usarmy_d",125,40,75],                                 // M1237 (HMG)
-    ["rhsusf_M1237_MK19_usarmy_d",125,60,75],                               // M1237 (GMG)
-    ["rhsusf_M1083A1P2_D_flatbed_fmtv_usarmy",100,0,50],                    // M1083A1P2
-    ["rhsusf_M977A4_BKIT_usarmy_d",125,0,75],                               // M977A4 BKIT
-    ["rhsusf_M977A4_BKIT_M2_usarmy_d",125,40,75],                           // M977A4 BKIT (HMG)
-    ["B_UGV_01_F",150,0,50],                                                // UGV Stomper
-    ["B_UGV_01_rcws_F",150,40,50],                                          // UGV Stomper (RCWS)
-    ["B_Boat_Transport_01_F",100,0,25],                                     // Assault Boat
-    ["B_Boat_Armed_01_minigun_F",200,80,75],                                // Speedboat Minigun
-    ["rhsusf_mkvsoc",250,200,100],                                          // Mk.V SOCOM
-    ["B_SDV_01_F",150,0,50]                                                 // SDV
+    ["CUP_B_Boxer_HMG_GER_DES",120,150,80],                                 // Boxer (HMG)
+    ["CUP_B_Boxer_GMG_GER_DES",130,170,100],                                // Boxer (GMG)
+    ["UK3CB_BAF_MAN_HX58_Cargo_Sand_A_DDPM",100,0,80],                      // MAN (Cargo)
+    ["UK3CB_BAF_MAN_HX58_Transport_Sand_DDPM",120,0,100],                   // MAN (Transport)
+    ["CUP_B_Mastiff_GMG_GB_D",250,300,100],                                 // Mastiff (GMG)
+    ["CUP_B_Mastiff_HMG_GB_D",250,250,100],                                 // Mastiff (HMG)
+    ["CUP_B_Mastiff_LMG_GB_D",250,150,100],                                 // Mastiff (LMG)
+    ["CUP_B_Ridgback_GMG_GB_D",200,250,100],                                // Ridgeback (GMG)
+    ["CUP_B_Ridgback_HMG_GB_D",200,200,100],                                // Ridgeback (HMG)
+    ["CUP_B_Ridgback_LMG_GB_D",200,150,100],                                // Ridgeback (LMG)
+    ["CUP_B_Wolfhound_GMG_GB_D",225,300,100],                               // Wolfhound (GMG)
+    ["CUP_B_Wolfhound_hMG_GB_D",225,250,100],                               // Wolfhound (HMG)
+    ["CUP_B_Wolfhound_LMG_GB_D",225,150,100],                               // Wolfhound (LMG)
+    ["UK3CB_BAF_LandRover_WMIK_GMG_FFR_Sand_A_DDPM",150,200,80],            // Land Rover (GMG)
+    ["UK3CB_BAF_LandRover_WMIK_HMG_FFR_Sand_A_DDPM",150,150,80],            // Land Rover (HMG)
+    ["UK3CB_BAF_LandRover_WMIK_GPMG_FFR_Sand_A_DDPM",150,100,80],           // Land Rover (LMG)
+    ["UK3CB_BAF_LandRover_WMIK_Milan_FFR_Sand_A_DDPM",150,300,80],          // Land Rover (ATGM)
+    ["UK3CB_BAF_LandRover_Soft_FFR_Sand_A_DDPM",150,0,80],                  // Land Rover (Soft Top)
+    ["UK3CB_BAF_LandRover_Hard_FFR_Sand_A_DDPM",150,0,80],                  // Land Rover (Hard Top)
+    ["UK3CB_BAF_LandRover_Snatch_FFR_Sand_A_DDPM",175,0,90],                // Land Rover (Snatch)
+    ["UK3CB_BAF_LandRover_Amb_FFR_Sand_A_DDPM",175,0,100],                  // Land Rover (Ambulance)
+    ["UK3CB_BAF_Husky_Passenger_GMG_Sand_DDPM",225,250,100],                // Husky (GMG)
+    ["UK3CB_BAF_Husky_Passenger_HMG_Sand_DDPM",225,200,100],                // Husky (HMG)
+    ["UK3CB_BAF_Husky_Passenger_GPMG_Sand_DDPM",225,150,100],               // Husky (LMG)
+    ["UK3CB_BAF_Panther_GPMG_Sand_A_DDPM",175,150,80]                       // Panther (LMG)
 ];
 
 heavy_vehicles = [
-    ["RHS_M2A2_BUSKI",300,200,150],                                         // M2A2ODS (Busk I)
-    ["RHS_M2A3_BUSKIII",300,250,175],                                       // M2A3 (Busk III)
-    ["RHS_M6",300,250,175],                                                 // M6A2
-    ["rhsusf_m1a1aim_tuski_d",400,350,225],                                 // M1A1SA (Tusk I)
-    ["rhsusf_m1a2sep1tuskiid_usarmy",500,400,250],                          // M1A2SEPv1 (Tusk II)
-    ["rhsusf_m109d_usarmy",600,1250,300]                                    // M109A6
+   ["CUP_B_FV510_GB_D",400,400,200],                                        // Warrior
+   ["CUP_B_FV510_GB_D_SLAT",600,400,200],                                   // Warrior (SLAT)
+   ["UK3CB_BAF_FV432_Mk3_GPMG_Sand_DDPM",350,150,150],                      // Bulldog (LMG)
+   ["UK3CB_BAF_FV432_Mk3_RWS_Sand_DDPM",375,200,150],                       // Bulldog (HMG
+   ["CUP_B_Challenger2_Desert_BAF",1000,700,500],                           // Challenger 2
+   ["rhsusf_m109d_usarmy",1200,800,300],                                    // M109A6
+   ["CUP_B_M270_HE_BAF_DES",1200,900,300],                                  // M270 (HE)
+   ["CUP_B_M270_DPICM_BAF_DES",1200,900,300]                                // M270 (DPICM)
 ];
 
 air_vehicles = [
@@ -119,30 +132,17 @@ air_vehicles = [
     ["B_UAV_06_F",80,0,30],                                                 // AL-6 Pelican (Cargo)
     ["UK3CB_BAF_Wildcat_AH1_TRN_8A_DDPM",225,0,125],                        // Wildcat AH1 8 Transport (Unarmed)
     ["UK3CB_BAF_Wildcat_HMA2_TRN_8A_DDPM",250,0,125],                       // Wildcat HMA2 8 Transport (Unarmed)
-    ["UK3CB_BAF_Wildcat_AH1_CAS_6C_DDPM",275,200,150],                      // Wildcat AH1 6 (CAS/AT)
-    ["UK3CB_BAF_Wildcat_AH1_CAS_8C_DDPM",275,200,150],                      // Wildcat AH1 8 (CAS/AT)
-    ["UK3CB_BAF_Apache_AH1_DDPM",500,500,200],                              // Apache AH 1 (Multi-Role)
-    ["RHS_AH64D",750,750,250],                                              // AH-64D (Multi-Role)
-    ["RHS_UH60M2_d",250,0,150],                                             // UH-60M (Unarmed)
-    ["RHS_UH60M_d",250,80,150],                                             // UH-60M
-    ["RHS_UH60M_MEV2_d",300,0,150],                                         // UH-60M MEV2
-    ["RHS_CH_47F_10",275,80,175],                                           // CH-47 Chinook (Armed)
+    ["UK3CB_BAF_Wildcat_AH1_CAS_6C_DDPM",300,500,200],                      // Wildcat AH1 6 (CAS/AT)
+    ["UK3CB_BAF_Wildcat_AH1_CAS_8C_DDPM",300,500,200],                      // Wildcat AH1 8 (CAS/AT)
+    ["RHS_CH_47F_10",275,250,175],                                          // CH-47 Chinook (Armed)
     ["UK3CB_BAF_Merlin_HC3_32_DDPM",300,0,175],                             // Merlin HC3 32
-    ["UK3CB_BAF_Merlin_HC3_CSAR_DDPM",300,80,175],                          // Merlin HC3 CSAR (Armed)
-    ["B_UAV_02_dynamicLoadout_F",400,300,200],                              // MQ-4A Greyhawk
-    ["B_T_UAV_03_dynamicLoadout_F",450,500,250],                            // MQ-12 Falcon
-    ["B_UAV_05_F",500,500,200],                                             // UCAV Sentinel
-    ["RHS_A10",1000,1000,400],                                              // A-10A (CAS)
-    ["FIR_F15C",1250,1250,450],                                             // F-15C Eagle
-    ["FIR_F15D",1250,1250,450],                                             // F-15D Eagle
-    ["FIR_F15E",1250,1500,450],                                             // F-15E Strike Eagle
-    ["JS_JC_FA18E",1500,1750,450],                                          // F/A-18 E Super Hornet
-    ["JS_JC_FA18F",1500,1750,450],                                          // F/A-18 F Super Hornet
-    ["B_Plane_Fighter_01_F",1500,1750,450],                                 // F/A-181 Black Wasp II
-    ["B_Plane_Fighter_01_Stealth_F",1500,1750,450],                         // F/A-181 Black Wasp II (Stealth)
-    ["B_T_VTOL_01_armed_F",750,1500,500],                                   // V-44 X Blackfish (Armed)
-    ["B_T_VTOL_01_infantry_F",750,0,500],                                   // V-44 X Blackfish (Infantry)
-    ["B_T_VTOL_01_vehicle_F",750,0,500]                                     // V-44 X Blackfish (Vehicle)
+    ["UK3CB_BAF_Merlin_HC3_CSAR_DDPM",500,400,250],                         // Merlin HC3 CSAR (Armed)
+    ["FIR_C130J_Long",200,0,200],                                           // C-130J-30 (Cargo)
+    ["FIR_AV8B_GR9A",800,1200,800],                                         // AV-8B GR9A
+    ["Tornado_AWS_blu",1200,1500,1200],                                     // Tornado IDS (CAS)
+    ["Tornado_AWS_ADV_blu",700,500,700],                                    // Tornado ADV (CAP)
+    ["fza_ah64d_b2e",1000,1000,1000],                                       // AH-64D (Radar)
+    ["UK3CB_BAF_MQ9_Reaper_DDPM",800,900,600]                               // MQ-9
 ];
 
 static_vehicles = [
@@ -261,9 +261,9 @@ support_vehicles = [
     ["UK3CB_BAF_Box_L16_Ammo",0,0,0],
     ["UK3CB_BAF_Box_M6_Ammo",0,0,0],
     ["B_APC_Tracked_01_CRV_F",500,250,350],                                 // CRV-6e Bobcat
-    ["rhsusf_M977A4_REPAIR_BKIT_usarmy_d",325,0,75],                        // M977A4 Repair
-    ["rhsusf_M978A4_BKIT_usarmy_d",125,0,275],                              // M978A4 Fuel
-    ["rhsusf_M977A4_AMMO_BKIT_usarmy_d",125,200,75],                        // M977A4 Ammo
+    ["UK3CB_BAF_MAN_HX58_Fuel_Sand_DDPM",100,0,250],                        // MAN (Fuel)
+    ["UK3CB_BAF_MAN_HX58_Repair_Sand_DDPM",300,0,80],                       // MAN (Repair)
+    ["CUP_B_MTVR_Ammo_BAF_DES",100,250,80],                                 // MTVR (Ammo)
     ["B_Slingload_01_Repair_F",275,0,0],                                    // Huron Repair
     ["B_Slingload_01_Fuel_F",75,0,200],                                     // Huron Fuel
     ["B_Slingload_01_Ammo_F",75,200,0]                                      // Huron Ammo
@@ -361,27 +361,20 @@ blufor_squad_para = [
     Which base locks a vehicle is randomized on the first start of the campaign.
 */
 elite_vehicles = [
-    "rhsusf_mkvsoc",                                                        // Mk.V SOCOM
-    "RHS_M2A3_BUSKIII",                                                     // M2A3 (Busk III)
-    "RHS_M6",                                                               // M6A2
-    "rhsusf_m1a1aim_tuski_d",                                               // M1A1SA (Tusk I)
-    "rhsusf_m1a2sep1tuskiid_usarmy",                                        // M1A2SEPv1 (Tusk II)
-    "rhsusf_m109d_usarmy",                                                  // M109A6
-    "B_UAV_02_dynamicLoadout_F",                                            // MQ-4A Greyhawk
-    "B_T_UAV_03_dynamicLoadout_F",                                          // MQ-12 Falcon
-    "B_UAV_05_F",                                                           // UCAV Sentinel
     "UK3CB_BAF_Wildcat_AH1_CAS_6C_DDPM",                                    // Wildcat AH1 6 (CAS/AT)
     "UK3CB_BAF_Wildcat_AH1_CAS_8C_DDPM",                                    // Wildcat AH1 8 (CAS/AT)
-    "UK3CB_BAF_Apache_AH1_DDPM",                                            // Apache AH 1 (Multi-Role)
-    "RHS_AH64D",                                                            // AH-64D (Multi-Role)
-    "RHS_A10",                                                              // A-10A (CAS)
-    "FIR_F15C",                                                             // F-15C Eagle
-    "FIR_F15D",                                                             // F-15D Eagle
-    "FIR_F15E",                                                             // F-15E Strike Eagle
-    "JS_JC_FA18E",                                                          // F/A-18 E Super Hornet
-    "JS_JC_FA18F",                                                          // F/A-18 F Super Hornet
-    "B_Plane_Fighter_01_F",                                                 // F/A-181 Black Wasp II
-    "B_Plane_Fighter_01_Stealth_F",                                         // F/A-181 Black Wasp II (Stealth)
-    "B_T_VTOL_01_armed_F",                                                  // V-44 X Blackfish (Armed)
-    "RHS_M119_D"                                                            // M119A2
+    "FIR_AV8B_GR9A",                                                        // AV-8B GR9A
+    "Tornado_AWS_blu",                                                      // Tornado IDS (CAS)
+    "Tornado_AWS_ADV_blu",                                                  // Tornado ADV (CAP)
+    "fza_ah64d_b2e",                                                        // AH-64D (Radar)
+    "CUP_B_FV510_GB_D",                                                     // Warrior
+    "CUP_B_FV510_GB_D_SLAT",                                                // Warrior (SLAT)
+    "CUP_B_Challenger2_Desert_BAF",                                         // Challenger 2
+    "RHS_M119_D",                                                           // M119A2
+    "rhsusf_m109d_usarmy",                                                  // M109A6
+    "CUP_B_M270_HE_BAF_DES",                                                // M270 (HE)
+    "CUP_B_M270_DPICM_BAF_DES" ,                                            // M270 (DPICM
+    "UK3CB_BAF_MQ9_Reaper_DDPM",                                            // MQ-9
+    "UK3CB_BAF_LandRover_WMIK_Milan_FFR_Sand_A_DDPM",                       // Land Rover (ATGM)
+    "UK3CB_BAF_Merlin_HC3_CSAR_DDPM"                                        // Merlin HC3 CSAR (Armed)
 ];
