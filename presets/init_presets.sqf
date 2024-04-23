@@ -13,15 +13,15 @@ switch (KP_liberation_preset_blufor) do {
 };
 
 switch (KP_liberation_preset_opfor) do {
-    default  {[] call compileFinal preprocessFileLineNumbers "presets\opfor\cup_takilocals.sqf";};
+    default  {[] call compileFinal preprocessFileLineNumbers "presets\opfor\takimilitia.sqf";};
 };
 
 switch (KP_liberation_preset_resistance) do {
-    default  {[] call compileFinal preprocessFileLineNumbers "presets\resistance\cup_takiarmy.sqf";};
+    default  {[] call compileFinal preprocessFileLineNumbers "presets\resistance\takilocals.sqf";};
 };
 
 switch (KP_liberation_preset_civilians) do {
-    default  {[] call compileFinal preprocessFileLineNumbers "presets\civilians\cup_takicivs.sqf";};
+    default  {[] call compileFinal preprocessFileLineNumbers "presets\civilians\takicivs.sqf";};
 };
 
 // Prices for the blufor infantry squads (supplies, ammo, fuel)
