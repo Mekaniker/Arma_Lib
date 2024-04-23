@@ -17,6 +17,12 @@
 GRLIB_arsenal_weapons = [
     "UK3CB_BAF_AT4_CS_AP_Launcher",                                 // ILAW HEDP Launcher
     "UK3CB_BAF_AT4_CS_AT_Launcher",                                 // ILAW HP Launcher
+	"UK3CB_BAF_Javelin_Slung_Tube",
+	"rhs_weap_fim92",
+	"UK3CB_Blowpipe",
+	"ace_dragon_super",
+	"uk3cb_m47",
+	"rhs_weap_m72a7",
     "UK3CB_BAF_L103A2",                                             // L130A2 DP
     "UK3CB_BAF_L105A1",                                             // L105A1
     "UK3CB_BAF_L105A2",                                             // L105A2
@@ -51,14 +57,10 @@ GRLIB_arsenal_weapons = [
     "UK3CB_BAF_L7A2",                                               // L7A2 GPMG
     "UK3CB_BAF_L85A2_EMAG",                                         // L85A2 EMAG
     "UK3CB_BAF_L85A2_RIS_D",                                        // L85A2 RIS (Tan Rail Covers)
-    "UK3CB_BAF_L85A2_RIS_G",                                        // L85A2 RIS (Green Rail Covers)
-    "UK3CB_BAF_L85A2_RIS_W",                                        // L85A2 RIS (Winter Rail Covers)
     "UK3CB_BAF_L85A2_RIS",                                          // L85A2 RIS
     "UK3CB_BAF_L85A2_UGL_HWS",                                      // L85A2 with L123A3 HWS
     "UK3CB_BAF_L85A2_UGL",                                          // L85A2 witch L123A2 Ladder
     "UK3CB_BAF_L85A2",                                              // L85A2
-    "UK3CB_BAF_L85A3_UGL",                                          // L85A3 with L123A2 Ladder
-    "UK3CB_BAF_L85A3",                                              // L85A3
     "UK3CB_BAF_L86A2",                                              // L86A2 LSW
     "UK3CB_BAF_L86A3",                                              // L86A2 RIS DMR
     "UK3CB_BAF_L91A1",                                              // L91A1 SMG
@@ -191,6 +193,8 @@ GRLIB_arsenal_magazines = [
     "UK3CB_BAF_UGL_FlareRed_F",                                     // 40mm Red Flare (L123)
     "UK3CB_BAF_UGL_FlareWhite_F",                                   // 40mm White Flare (L123)
     "UK3CB_BAF_UGL_FlareYellow_F",                                  // 40mm Yellow Flare (L123)
+	"UK3CB_Blowpipe_Round",
+	"UK3CB_M47_Missile",
 	
     //RHS
     "rhs_mag_m662_red",
@@ -308,6 +312,7 @@ GRLIB_arsenal_magazines = [
     "rhs_mag_30Rnd_556x45_Mk262_Stanag",
     "rhs_mag_30Rnd_556x45_Mk262_Stanag_Pull",
     "rhsusf_50Rnd_762x51_m80a1epr",
+	"rhs_fim92_mag",
 	
     //CUP
     "CUP_30Rnd_556x45_PMAG_BLACK_PULL",
@@ -730,14 +735,14 @@ GRLIB_arsenal_items = [
     "UK3CB_BAF_V_PLCE_Webbing_DDPM",                                // PLCE Webbing DDPM [BAF]
 
     // Items
-    "muzzle_snds_B",                                                // Sound Suppressor (7.62 mm)
+    "ACE_DBAL_A3_Green",
+	"ACE_DBAL_A3_Red",
+	"muzzle_snds_B",                                                // Sound Suppressor (7.62 mm)
     "muzzle_snds_L",                                                // Sound Suppressor (9mm)
     "RKSL_optic_EOT552_C",                                          // EOTech 552.A65/1 (Coyote)
     "RKSL_optic_EOT552",                                            // EOTech 552.A65/1
     "RKSL_optic_EOT552X_C",                                         // EOTech 552.XR308 (Coyote)
     "RKSL_optic_EOT552X",                                           // EOTech 552.XR308
-    "RKSL_optic_LDS_C",                                             // LDS (Coyote)
-    "RKSL_optic_LDS",                                               // LDS
     "RKSL_optic_PMII_312_des",                                      // S+B 3-12x50 PM II (D)
     "RKSL_optic_PMII_312_sunshade_des",                             // S+B 3-12x50 PM II (sunshade) (D)
     "RKSL_optic_PMII_312_sunshade",                                 // S+B 3-12x50 PM II (sunshade)
@@ -748,6 +753,11 @@ GRLIB_arsenal_items = [
     "RKSL_optic_RMR_MS19",                                          // RMR (MS19)
     "RKSL_optic_RMR_RM33_FDE",                                      // RMR (RM33) (FDE)
     "RKSL_optic_RMR_RM33",                                          // RMR (RM33)
+	"rhsusf_acc_su230",
+	"rhsusf_acc_su230_c",
+	"rhsusf_acc_su230a",
+	"rhsusf_acc_su230a_c",
+	"UK3CB_BAF_Bayonet_L3A1",
     "UK3CB_BAF_BFA_L110",                                           // Blank Fire Adaptor (L110)
     "UK3CB_BAF_BFA_L129",                                           // Blank Fire Adaptor (L129)
     "UK3CB_BAF_BFA_L7",                                             // Blank Fire Adaptor (L7)
@@ -787,6 +797,7 @@ GRLIB_arsenal_items = [
     "UK3CB_underbarrel_acc_grippod_d",                              // Grip-pod (Desert)
     "UK3CB_underbarrel_acc_grippod_t",                              // Grip-pod (Tan)
     "UK3CB_underbarrel_acc_grippod",                                // Grip-pod (Black)
+	"UK3CB_BAF_Flashlight_L91A1",
 
     // Vanilla Standard Items
     "acc_flashlight",                                               // Flashlight
