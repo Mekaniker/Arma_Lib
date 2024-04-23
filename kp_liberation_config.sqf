@@ -94,8 +94,8 @@ KP_liberation_preset_resistance = 0;
 KP_liberation_preset_civilians = 0;
 
 /* Which arsenal preset should be used?
-0  = 3cbBAF and RHS USAF arsenal preset */
-KP_liberation_arsenal = 0;
+1  = 3cbBAF and RHS USAF arsenal preset */
+KP_liberation_arsenal = 1;
 
 /* - Fuel consumption settings.
 Time in minutes till a full tank depletes whilst the vehicle is standing still with a running engine. */
