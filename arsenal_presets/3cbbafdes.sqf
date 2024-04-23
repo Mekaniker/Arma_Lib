@@ -25,6 +25,7 @@ GRLIB_arsenal_weapons = [
 	"ace_dragon_super",
 	"uk3cb_m47",
 	"rhs_weap_m72a7",
+	"twc_law80_loaded",
     "UK3CB_BAF_L103A2",                                             // L130A2 DP
     "UK3CB_BAF_L105A1",                                             // L105A1
     "UK3CB_BAF_L105A2",                                             // L105A2
