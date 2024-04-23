@@ -19,7 +19,7 @@
 */
 FOB_typename = "Land_Cargo_HQ_V1_F";                                        // This is the main FOB HQ building.
 FOB_box_typename = "B_Slingload_01_Cargo_F";                                // This is the FOB as a container.
-FOB_truck_typename = "B_Truck_01_box_F";                                    // This is the FOB as a vehicle.
+FOB_truck_typename = "UK3CB_BAF_MAN_HX58_Cargo_Sand_B_DDPM";                // This is the FOB as a vehicle.
 Arsenal_typename = "B_supplyCrate_F";                                       // This is the virtual arsenal as portable supply crates.
 Respawn_truck_typename = "UK3CB_BAF_LandRover_Amb_FFR_Sand_A_DDPM";         // This is the mobile respawn (and medical) truck.
 huron_typename = "Boeing_CH_47_F_R";                                        // This is Spartan 01, a multipurpose mobile respawn as a helicopter.
@@ -27,7 +27,7 @@ crewman_classname = "UK3CB_BAF_Crewman_DDPM";                               // T
 pilot_classname = "UK3CB_BAF_HeliPilot_Army_DDPM";                          // This defines the pilot for helicopters.
 KP_liberation_little_bird_classname = "UK3CB_BAF_Wildcat_AH1_TRN_8A_DDPM";  // These are the little birds which spawn on the Freedom or at Chimera base.
 KP_liberation_boat_classname = "B_Boat_Transport_01_F";                     // These are the boats which spawn at the stern of the Freedom.
-KP_liberation_truck_classname = "rhsusf_M977A4_BKIT_usarmy_d";              // These are the trucks which are used in the logistic convoy system.
+KP_liberation_truck_classname = "UK3CB_BAF_MAN_HX60_Cargo_Sand_B_DDPM";     // These are the trucks which are used in the logistic convoy system.
 KP_liberation_small_storage_building = "ContainmentArea_02_sand_F";         // A small storage area for resources.
 KP_liberation_large_storage_building = "ContainmentArea_01_sand_F";         // A large storage area for resources.
 KP_liberation_recycle_building = "Land_RepairDepot_01_tan_F";               // The building defined to unlock FOB recycling functionality.
