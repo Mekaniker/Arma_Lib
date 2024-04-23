@@ -18,6 +18,8 @@ GRLIB_arsenal_weapons = [
     "UK3CB_BAF_AT4_CS_AP_Launcher",                                 // ILAW HEDP Launcher
     "UK3CB_BAF_AT4_CS_AT_Launcher",                                 // ILAW HP Launcher
 	"UK3CB_BAF_Javelin_Slung_Tube",
+	"launch_MRAWS_sand_rail_F",
+	"launch_MRAWS_green_rail_F",
 	"rhs_weap_fim92",
 	"UK3CB_Blowpipe",
 	"ace_dragon_super",
@@ -313,6 +315,9 @@ GRLIB_arsenal_magazines = [
     "rhs_mag_30Rnd_556x45_Mk262_Stanag_Pull",
     "rhsusf_50Rnd_762x51_m80a1epr",
 	"rhs_fim92_mag",
+	"rhs_mag_maaws_HEAT",
+	"rhs_mag_maaws_HE",
+	"rhs_mag_maaws_HEDP",
 	
     //CUP
     "CUP_30Rnd_556x45_PMAG_BLACK_PULL",
