@@ -26,6 +26,7 @@ GRLIB_arsenal_weapons = [
 	"uk3cb_m47",
 	"rhs_weap_m72a7",
 	"twc_law80_loaded",
+	"Starstreak",
     "UK3CB_BAF_L103A2",                                             // L130A2 DP
     "UK3CB_BAF_L105A1",                                             // L105A1
     "UK3CB_BAF_L105A2",                                             // L105A2
@@ -135,6 +136,7 @@ GRLIB_arsenal_magazines = [
     "ACE_30Rnd_556x45_Stanag_Tracer_Dim",
     "ACE_30Rnd_556x45_Stanag_M995_AP_mag",
     "ACE_HuntIR_M203",
+	"Starstreak_missile",
 
     //3cb
     "UK3CB_BAF_12G_Pellets",                                        // 12G 8rnd Buckshot

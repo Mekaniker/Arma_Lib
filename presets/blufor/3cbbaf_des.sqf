@@ -153,9 +153,11 @@ static_vehicles = [
     ["UK3CB_BAF_Static_L134A1_Deployed_Mid_DDPM",25,60,0],                  // L134A1 GMG (Med)
     ["UK3CB_BAF_Static_L134A1_Deployed_High_DDPM",25,60,0],                 // L134A1 GMG (High)
     ["RHS_TOW_TriPod_D",50,100,0],                                          // TOW (AT)
-    ["RHS_Stinger_AA_pod_D",50,100,0],                                      // Stinger (AA)
+    ["RHS_Stinger_AA_pod_D",50,100,25],                                      // Stinger (AA)
     ["UK3CB_BAF_Static_L16_Deployed_DDPM",80,150,0],                        // Mk6 Mortar
-    ["RHS_M119_D",100,200,0]                                                // M119A2
+    ["RHS_M119_D",100,200,0] ,                                               // M119A2
+	["Starstreak_Static",75,150,50],
+	["Starstreak2_Static",75,150,50]
 ];
 
 buildings = [
