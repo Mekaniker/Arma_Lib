@@ -359,6 +359,7 @@ KP_liberation_allowed_items_extension = [
     "ACE_PreloadedMissileDummy_Stinger_CUP",
     "ACE_PreloadedMissileDummy_Strela_2_CUP",
     "ACE_ReserveParachute",
+	"kat_PainkillerItem",
     "BWA3_acc_LLM01_flash_tan",
     "BWA3_acc_LLM01_flash_underbarrel",
     "BWA3_acc_LLM01_flash",
