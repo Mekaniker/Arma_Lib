@@ -153,11 +153,10 @@ static_vehicles = [
     ["UK3CB_BAF_Static_L134A1_Deployed_Mid_DDPM",25,60,0],                  // L134A1 GMG (Med)
     ["UK3CB_BAF_Static_L134A1_Deployed_High_DDPM",25,60,0],                 // L134A1 GMG (High)
     ["RHS_TOW_TriPod_D",50,100,0],                                          // TOW (AT)
-    ["RHS_Stinger_AA_pod_D",50,100,25],                                      // Stinger (AA)
+    ["RHS_Stinger_AA_pod_D",50,100,25],                                     // Stinger (AA)
     ["UK3CB_BAF_Static_L16_Deployed_DDPM",80,150,0],                        // Mk6 Mortar
-    ["RHS_M119_D",100,200,0] ,                                               // M119A2
-	["Starstreak_Static",75,150,50],
-	["Starstreak2_Static",75,150,50]
+    ["RHS_M119_D",100,200,0],                                               // M119A2
+    ["Starstreak2_Static",75,150,50]                                        // STARSTREAK II SAM
 ];
 
 buildings = [
@@ -259,6 +258,7 @@ support_vehicles = [
     ["UK3CB_BAF_Box_WpsStatic",300,300,0],
     ["UK3CB_BAF_Box_L16_Ammo",0,0,0],
     ["UK3CB_BAF_Box_M6_Ammo",0,0,0],
+    ["Starstreak2_box",0,50,0],                                             // STARSTREAK II SAM Ammo (Box)
     ["B_APC_Tracked_01_CRV_F",500,250,350],                                 // CRV-6e Bobcat
     ["UK3CB_BAF_LandRover_Amb_FFR_Sand_A_DDPM",175,0,100],                  // Land Rover (Ambulance)
     ["UK3CB_BAF_MAN_HX58_Fuel_Sand_DDPM",100,0,250],                        // MAN (Fuel)
