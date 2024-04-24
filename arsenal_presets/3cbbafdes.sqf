@@ -18,8 +18,6 @@ GRLIB_arsenal_weapons = [
     "UK3CB_BAF_AT4_CS_AP_Launcher",                                 // ILAW HEDP Launcher
     "UK3CB_BAF_AT4_CS_AT_Launcher",                                 // ILAW HP Launcher
 	"UK3CB_BAF_Javelin_Slung_Tube",
-	"launch_MRAWS_sand_rail_F",
-	"launch_MRAWS_green_rail_F",
 	"rhs_weap_fim92",
 	"UK3CB_Blowpipe",
 	"ace_dragon_super",
@@ -27,6 +25,7 @@ GRLIB_arsenal_weapons = [
 	"rhs_weap_m72a7",
 	"twc_law80_loaded",
 	"Starstreak",
+        "Weapon_launch_NLAW_F",
     "UK3CB_BAF_L103A2",                                             // L130A2 DP
     "UK3CB_BAF_L105A1",                                             // L105A1
     "UK3CB_BAF_L105A2",                                             // L105A2
@@ -136,7 +135,8 @@ GRLIB_arsenal_magazines = [
     "ACE_30Rnd_556x45_Stanag_Tracer_Dim",
     "ACE_30Rnd_556x45_Stanag_M995_AP_mag",
     "ACE_HuntIR_M203",
-	"Starstreak_missile",
+        "Starstreak_missile",
+        "Starstreak2_missile",
 
     //3cb
     "UK3CB_BAF_12G_Pellets",                                        // 12G 8rnd Buckshot
@@ -198,8 +198,8 @@ GRLIB_arsenal_magazines = [
     "UK3CB_BAF_UGL_FlareRed_F",                                     // 40mm Red Flare (L123)
     "UK3CB_BAF_UGL_FlareWhite_F",                                   // 40mm White Flare (L123)
     "UK3CB_BAF_UGL_FlareYellow_F",                                  // 40mm Yellow Flare (L123)
-	"UK3CB_Blowpipe_Round",
-	"UK3CB_M47_Missile",
+        "UK3CB_Blowpipe_Round",
+        "UK3CB_M47_Missile",
 	
     //RHS
     "rhs_mag_m662_red",
@@ -317,10 +317,7 @@ GRLIB_arsenal_magazines = [
     "rhs_mag_30Rnd_556x45_Mk262_Stanag",
     "rhs_mag_30Rnd_556x45_Mk262_Stanag_Pull",
     "rhsusf_50Rnd_762x51_m80a1epr",
-	"rhs_fim92_mag",
-	"rhs_mag_maaws_HEAT",
-	"rhs_mag_maaws_HE",
-	"rhs_mag_maaws_HEDP",
+        "rhs_fim92_mag",
 	
     //CUP
     "CUP_30Rnd_556x45_PMAG_BLACK_PULL",
@@ -625,7 +622,7 @@ GRLIB_arsenal_items = [
     "UK3CB_BAF_G_Tactical_Grey",                                    // Tactical Glasses (Grey) [BAF]
     "UK3CB_BAF_G_Tactical_Orange",                                  // Tactical Glasses (Orange)[BAF]
     "UK3CB_BAF_G_Tactical_Yellow",                                  // Tactical Glasses (Yellow) [BAF]
-	"kat_Armband_Doctor_Goggles",
+       "kat_Armband_Doctor_Goggles",
     "kat_Armband_Medic_Goggles",
     "kat_Armband_Red_Cross_Goggles",
     "G_Aviator","CUP_G_ESS_BLK_Dark",
