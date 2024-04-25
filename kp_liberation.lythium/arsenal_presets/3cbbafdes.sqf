@@ -25,7 +25,7 @@ GRLIB_arsenal_weapons = [
 	"rhs_weap_m72a7",
 	"twc_law80_loaded",
 	"Starstreak",
-        "Weapon_launch_NLAW_F",
+        "launch_NLAW_F",
     "UK3CB_BAF_L103A2",                                             // L130A2 DP
     "UK3CB_BAF_L105A1",                                             // L105A1
     "UK3CB_BAF_L105A2",                                             // L105A2
