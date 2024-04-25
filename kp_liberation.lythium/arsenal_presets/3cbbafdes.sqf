@@ -52,8 +52,6 @@ GRLIB_arsenal_weapons = [
     "UK3CB_BAF_L128A1",                                             // L123A1 Shotgun
     "UK3CB_BAF_L131A1",                                             // L131A1
     "UK3CB_BAF_L135A1",                                             // L135A1 LRPAS
-    "UK3CB_BAF_L1A1_Wood",                                          // L1A1 SLR (Wooden stock)
-    "UK3CB_BAF_L1A1",                                               // L1A1 SLR
     "UK3CB_BAF_L22",                                                // L22
     "UK3CB_BAF_L22A2",                                              // L22A2
     "UK3CB_BAF_L7A2",                                               // L7A2 GPMG
