@@ -790,8 +790,8 @@ GRLIB_arsenal_items = [
 	//3cb
 	"UK3CB_BAF_M6_RangeTable",
     //Ctab
-     "ItemcTab"
-     "ItemAndroid"
+     "ItemcTab",
+     "ItemAndroid",
 	
 
     // ACE Items
