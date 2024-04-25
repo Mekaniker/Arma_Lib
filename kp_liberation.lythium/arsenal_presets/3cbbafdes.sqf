@@ -50,7 +50,6 @@ GRLIB_arsenal_weapons = [
     "UK3CB_BAF_L119A1_UKUGL",                                       // L119A1 UK UGL
     "UK3CB_BAF_L119A1",                                             // L119A1
     "UK3CB_BAF_L128A1",                                             // L123A1 Shotgun
-    "UK3CB_BAF_L129A1",                                             // L129A1
     "UK3CB_BAF_L131A1",                                             // L131A1
     "UK3CB_BAF_L135A1",                                             // L135A1 LRPAS
     "UK3CB_BAF_L1A1_Wood",                                          // L1A1 SLR (Wooden stock)
@@ -75,16 +74,6 @@ GRLIB_arsenal_weapons = [
     "CUP_smg_MP5A5_Rail_VFG",
     "CUP_smg_MP5A5_Rail_AFG",
     "CUP_smg_MP5A5_Rail",
-    "CUP_arifle_DSA_SA58",
-    "CUP_arifle_DSA_SA58_DMR",
-    "CUP_arifle_DSA_SA58_OSW",
-    "CUP_arifle_DSA_SA58_OSW_Desert",
-    "CUP_arifle_DSA_SA58_OSW_VFG",
-    "CUP_arifle_DSA_SA58_OSW_VFG_Desert",
-    "CUP_arifle_DSA_SA58_OSW_VFG_Sand",
-    "CUP_arifle_DSA_SA58_OSW_Sand",
-    "CUP_arifle_DSA_SA58_OSW_M203",
-    "CUP_arifle_xm29_blk",
     "rhs_weap_m249_pip_S_para",
     "rhs_weap_m249_light_S",
     "rhs_weap_m249_pip_ris",
@@ -93,30 +82,6 @@ GRLIB_arsenal_weapons = [
     "rhs_weap_m249",
     "rhs_weap_m240G",
     "rhs_weap_m240B",
-    "rhs_weap_hk416d145",
-    "rhs_weap_hk416d145_d",
-    "rhs_weap_hk416d145_d_2",
-    "rhs_weap_hk416d145_m320",
-    "rhs_weap_hk416d10",
-    "rhs_weap_hk416d10_m320",
-    "CUP_arifle_FNFAL_OSW",
-    "CUP_arifle_FNFAL_OSW_railed",
-    "CUP_arifle_FNFAL5060",
-    "CUP_arifle_FNFAL5060_railed",
-    "CUP_arifle_FNFAL5060_desert",
-    "CUP_arifle_FNFAL5060_railed_desert",
-    "CUP_arifle_FNFAL5060_railed_sand",
-    "CUP_arifle_FNFAL5060_sand",
-    "CUP_arifle_FNFAL5061",
-    "CUP_arifle_FNFAL5061_railed",
-    "CUP_arifle_FNFAL5062",
-    "CUP_arifle_FNFAL5062_railed",
-    "CUP_arifle_FNFAL",
-    "CUP_arifle_FNFAL_desert",
-    "CUP_arifle_FNFAL_railed",
-    "CUP_arifle_FNFAL_railed_desert",
-    "CUP_arifle_FNFAL_railed_sand",
-    "CUP_arifle_FNFAL_sand",
     "CUP_lmg_FNMAG",
     "CUP_lmg_FNMAG_RIS",
     "CUP_lmg_FNMAG_RIS_modern"
@@ -818,30 +783,13 @@ GRLIB_arsenal_items = [
     "ItemMap",                                                      // Map
     "ItemRadio",                                                    // Radio
     "ItemWatch",                                                    // Watch
-    "Laserdesignator",                                              // Laser Designator (Sand)
     "Medikit",                                                      // Medikit
-    "NVGoggles_OPFOR",                                              // NV Goggles (Black)
-    "NVGoggles",                                                    // NV Goggles (Brown)
-	"NVGoggles",
-	"NVGoggles_OPFOR",
-    "Rangefinder",                                                  // Rangefinder
     "ToolKit",                                                      // Toolkit
     "U_B_PilotCoveralls",                                           // Pilot Coveralls [NATO]
-    "U_B_Wetsuit",                                                  // Wetsuit [NATO]
-    "V_RebreatherB",                                                // Rebreather [NATO]
-	
+
 	//3cb
 	"UK3CB_BAF_M6_RangeTable",
 	
-	//CUP
-	"CUP_NVG_GPNVG_tan",
-	"CUP_NVG_GPNVG_tan_WP",
-	"CUP_NVG_GPNVG_black_WP",
-	"CUP_NVG_GPNVG_black",
-	"CUP_NVG_PVS15_tan",
-	"CUP_NVG_PVS15_tan_WP",
-	"CUP_NVG_PVS15_black_WP",
-	"CUP_NVG_PVS15_black",
 
     // ACE Items
     "ACE_acc_pointer_green",                                        // Laser Pointer (green)
@@ -881,17 +829,6 @@ GRLIB_arsenal_items = [
     "ACE_muzzle_mzls_H",                                            // Flash Suppressor (6.5 mm)
     "ACE_muzzle_mzls_smg_01",                                       // FLash Suppressor (.45 ACP)
     "ACE_muzzle_mzls_smg_02",                                       // Flash Suppressor (9 mm)
-    "ACE_MX2A",                                                     // MX-2A
-	"ACE_NVG_Wide_WP",
-	"ACE_NVG_Wide",
-	"ACE_NVG_Wide_Black_WP",
-	"ACE_NVG_Wide_Black",
-	"ACE_NVG_Gen4_WP",
-	"ACE_NVG_Gen4",
-	"ACE_NVG_Gen4_Black_WP",
-	"ACE_NVG_Gen4_Black",
-	"ACE_NVGoggles_WP",
-    "ACE_NVGoggles_OPFOR_WP",
     "ACE_packingBandage",                                           // Bandage (Packing)
     "ACE_personalAidKit",                                           // Personal Aid Kit
     "ACE_plasmaIV_250",                                             // Plasma IV (250 ml)
@@ -919,12 +856,9 @@ GRLIB_arsenal_items = [
     "ACE_tourniquet",                                               // Tourniquet (CAT)
     "ACE_Tripod",                                                   // SSWT Kit
     "ACE_UAVBattery",                                               // UAV Battery
-    "ACE_Vector",                                                   // Vector 21 Nite
-    "ACE_VectorDay",                                                // Vector 21
     "ACE_VMH3",                                                     // VMH3
     "ACE_VMM3",                                                     // VMM3
     "ACE_wirecutter",                                               // Wirecutter
-    "ACE_Yardage450",                                               // Yardage 450
 	
 	//KAT Medical
 	"kat_IV_16",
