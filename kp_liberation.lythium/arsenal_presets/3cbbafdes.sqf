@@ -25,7 +25,7 @@ GRLIB_arsenal_weapons = [
 	"rhs_weap_m72a7",
 	"twc_law80_loaded",
 	"Starstreak",
-        "launch_NLAW_F",
+        "CUP_launch_NLAW",
     "UK3CB_BAF_L103A2",                                             // L130A2 DP
     "UK3CB_BAF_L105A1",                                             // L105A1
     "UK3CB_BAF_L105A2",                                             // L105A2
@@ -768,6 +768,7 @@ GRLIB_arsenal_items = [
     "UK3CB_underbarrel_acc_grippod_t",                              // Grip-pod (Tan)
     "UK3CB_underbarrel_acc_grippod",                                // Grip-pod (Black)
 	"UK3CB_BAF_Flashlight_L91A1",
+    "H2H_acc_bayo_M12",
 
     // Vanilla Standard Items
     "acc_flashlight",                                               // Flashlight
@@ -792,6 +793,7 @@ GRLIB_arsenal_items = [
     //Ctab
      "ItemcTab",
      "ItemAndroid",
+     "ItemcTabHCam",
 	
 
     // ACE Items
