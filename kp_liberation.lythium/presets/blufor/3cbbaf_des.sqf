@@ -22,7 +22,7 @@ FOB_box_typename = "B_Slingload_01_Cargo_F";                                // T
 FOB_truck_typename = "UK3CB_BAF_MAN_HX58_Cargo_Sand_B_DDPM";                // This is the FOB as a vehicle.
 Arsenal_typename = "B_supplyCrate_F";                                       // This is the virtual arsenal as portable supply crates.
 Respawn_truck_typename = "UK3CB_BAF_LandRover_Amb_FFR_Sand_A_DDPM";         // This is the mobile respawn (and medical) truck.
-huron_typename = "Boeing_CH_47_F_R";                                        // This is Spartan 01, a multipurpose mobile respawn as a helicopter.
+huron_typename = "TF373_RAF_HC5";                                           // This is Spartan 01, a multipurpose mobile respawn as a helicopter.
 crewman_classname = "UK3CB_BAF_Crewman_DDPM";                               // This defines the crew for vehicles.
 pilot_classname = "UK3CB_BAF_HeliPilot_Army_DDPM";                          // This defines the pilot for helicopters.
 KP_liberation_little_bird_classname = "UK3CB_BAF_Wildcat_AH1_TRN_8A_DDPM";  // These are the little birds which spawn on the Freedom or at Chimera base.
@@ -138,8 +138,9 @@ air_vehicles = [
     ["FIR_AV8B_GR9A",800,1200,800],                                         // AV-8B GR9A
     ["Tornado_AWS_blu",1200,1500,1200],                                     // Tornado IDS (CAS)
     ["Tornado_AWS_ADV_blu",700,500,700],                                    // Tornado ADV (CAP)
-    ["fza_ah64d_b2e",1000,1000,1000],                                       // AH-64D (Radar)
-    ["UK3CB_BAF_MQ9_Reaper_DDPM",800,900,600]                               // MQ-9
+    ["fza_ah64d_b2e",1000,1000,1000],                                       // AH-64D Interactible (Radar)
+    ["UK3CB_BAF_MQ9_Reaper_DDPM",800,900,600],                              // MQ-9
+    ["CUP_B_AH64D_DL_USA",1000,1000,1000]                                   // AH-64D RHS
 ];
 
 static_vehicles = [
