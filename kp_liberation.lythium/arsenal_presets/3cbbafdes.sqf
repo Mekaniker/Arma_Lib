@@ -785,6 +785,7 @@ GRLIB_arsenal_items = [
     "Medikit",                                                      // Medikit
     "ToolKit",                                                      // Toolkit
     "U_B_PilotCoveralls",                                           // Pilot Coveralls [NATO]
+    "MineDetector",                                                 // Mine Detector
 
 	//3cb
 	"UK3CB_BAF_M6_RangeTable",
