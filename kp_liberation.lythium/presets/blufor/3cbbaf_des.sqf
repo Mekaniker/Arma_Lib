@@ -257,8 +257,9 @@ support_vehicles = [
     ["ACE_Wheel",10,0,0],
     ["ACE_Track",10,0,0],
     ["UK3CB_BAF_Box_WpsStatic",300,300,0],
-    ["UK3CB_BAF_Box_L16_Ammo",0,0,0],
-    ["UK3CB_BAF_Box_M6_Ammo",0,0,0],
+    ["UK3CB_BAF_SupplyCrate_L16_Ammo_HE",0,50,0],                           // L16 HE CRATE
+    ["UK3CB_BAF_SupplyCrate_L16_Ammo_Illumination",0,50,0],                 // L16 ILUM CRATE
+    ["UK3CB_BAF_SupplyCrate_L16_Ammo_WPSmoke",0,50,0],                      // L16 WP SMOKE CRATE
     ["Starstreak2_box",0,50,0],                                             // STARSTREAK II SAM Ammo (Box)
     ["B_APC_Tracked_01_CRV_F",500,250,350],                                 // CRV-6e Bobcat
     ["UK3CB_BAF_LandRover_Amb_FFR_Sand_A_DDPM",175,0,100],                  // Land Rover (Ambulance)
