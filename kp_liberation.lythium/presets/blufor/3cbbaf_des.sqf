@@ -140,7 +140,8 @@ air_vehicles = [
     ["Tornado_AWS_ADV_blu",700,500,700],                                    // Tornado ADV (CAP)
     ["fza_ah64d_b2e",1000,1000,1000],                                       // AH-64D Interactible (Radar)
     ["UK3CB_BAF_MQ9_Reaper_DDPM",800,900,600],                              // MQ-9
-    ["CUP_B_AH64D_DL_USA",1000,1000,1000]                                   // AH-64D RHS
+    ["CUP_B_AH64D_DL_USA",1000,1000,1000],                                  // AH-64D RHS
+    ["FIR_KC130J_Blank",200,0,500]                                          // KC-130J
 ];
 
 static_vehicles = [
@@ -156,7 +157,7 @@ static_vehicles = [
     ["RHS_TOW_TriPod_D",50,100,0],                                          // TOW (AT)
     ["RHS_Stinger_AA_pod_D",50,100,25],                                     // Stinger (AA)
     ["UK3CB_BAF_Static_L16_Deployed_DDPM",80,150,0],                        // Mk6 Mortar
-    ["RHS_M119_D",100,200,0],                                               // M119A2
+    ["tbd_m119",100,150,0],                                               // M119A3
     ["Starstreak2_Static",75,150,50]                                        // STARSTREAK II SAM
 ];
 
@@ -260,6 +261,7 @@ support_vehicles = [
     ["UK3CB_BAF_SupplyCrate_L16_Ammo_HE",0,50,0],                           // L16 HE CRATE
     ["UK3CB_BAF_SupplyCrate_L16_Ammo_Illumination",0,50,0],                 // L16 ILUM CRATE
     ["UK3CB_BAF_SupplyCrate_L16_Ammo_WPSmoke",0,50,0],                      // L16 WP SMOKE CRATE
+    ["tbd_mortars_105mm_box",0,20,0],                                       // M119A3 HE CRATE
     ["Starstreak2_box",0,50,0],                                             // STARSTREAK II SAM Ammo (Box)
     ["B_APC_Tracked_01_CRV_F",500,250,350],                                 // CRV-6e Bobcat
     ["UK3CB_BAF_LandRover_Amb_FFR_Sand_A_DDPM",175,0,100],                  // Land Rover (Ambulance)
@@ -372,7 +374,7 @@ elite_vehicles = [
     "CUP_B_FV510_GB_D",                                                     // Warrior
     "CUP_B_FV510_GB_D_SLAT",                                                // Warrior (SLAT)
     "CUP_B_Challenger2_Desert_BAF",                                         // Challenger 2
-    "RHS_M119_D",                                                           // M119A2
+    "tbd_m119",                                                             // M119A3
     "rhsusf_m109d_usarmy",                                                  // M109A6
     "CUP_B_M270_HE_BAF_DES",                                                // M270 (HE)
     "CUP_B_M270_DPICM_BAF_DES" ,                                            // M270 (DPICM
