@@ -52,6 +52,7 @@ GRLIB_arsenal_weapons = [
     "UK3CB_BAF_L128A1",                                             // L123A1 Shotgun
     "UK3CB_BAF_L131A1",                                             // L131A1
     "UK3CB_BAF_L135A1",                                             // L135A1 LRPAS
+    "CUP_srifle_AS50",                                              // AS50
     "UK3CB_BAF_L22",                                                // L22
     "UK3CB_BAF_L22A2",                                              // L22A2
     "UK3CB_BAF_L7A2",                                               // L7A2 GPMG
@@ -98,8 +99,11 @@ GRLIB_arsenal_magazines = [
     "ACE_30Rnd_556x45_Stanag_Tracer_Dim",
     "ACE_30Rnd_556x45_Stanag_M995_AP_mag",
     "ACE_HuntIR_M203",
-        "Starstreak_missile",
-        "Starstreak2_missile",
+    "Starstreak_missile",
+    "Starstreak2_missile",
+    "ACE_5Rnd_127x99_Mag",
+    "ACE_5Rnd_127x99_AMAX_Mag",
+    "ACE_5Rnd_127x99_API_Mag",
 
     //3cb
     "UK3CB_BAF_12G_Pellets",                                        // 12G 8rnd Buckshot
@@ -416,7 +420,8 @@ GRLIB_arsenal_magazines = [
     "CUP_30Rnd_Green_Tracer_9x19_MP5",
     "CUP_1Rnd_StarFlare_Red_M203",
     "CUP_30Rnd_556x45_PMAG_OD_PULL",
-    "CUP_30Rnd_556x45_PMAG_BLACK_RPL_Tracer_Green", 
+    "CUP_30Rnd_556x45_PMAG_BLACK_RPL_Tracer_Green",
+    "CUP_5Rnd_127x99_as50_M",                                       // AS50 MAG
 
     // Vanilla Standard Grenades & Explosives
     "APERSBoundingMine_Range_Mag",                                  // APERS Bounding Mine
