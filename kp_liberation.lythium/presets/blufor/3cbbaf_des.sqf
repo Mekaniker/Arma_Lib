@@ -156,8 +156,8 @@ static_vehicles = [
     ["UK3CB_BAF_Static_L134A1_Deployed_High_DDPM",25,60,0],                 // L134A1 GMG (High)
     ["RHS_TOW_TriPod_D",50,100,0],                                          // TOW (AT)
     ["RHS_Stinger_AA_pod_D",50,100,25],                                     // Stinger (AA)
-    ["UK3CB_BAF_Static_L16_Deployed_DDPM",80,150,0],                        // Mk6 Mortar
-    ["tbd_m119",100,150,0],                                               // M119A3
+    ["RHS_M252_D",80,150,0],                                                // Mk6 Mortar
+    ["tbd_m119",100,150,0],                                                 // M119A3
     ["Starstreak2_Static",75,150,50]                                        // STARSTREAK II SAM
 ];
 
@@ -258,9 +258,9 @@ support_vehicles = [
     ["ACE_Wheel",10,0,0],
     ["ACE_Track",10,0,0],
     ["UK3CB_BAF_Box_WpsStatic",300,300,0],
-    ["UK3CB_BAF_SupplyCrate_L16_Ammo_HE",0,50,0],                           // L16 HE CRATE
-    ["UK3CB_BAF_SupplyCrate_L16_Ammo_Illumination",0,50,0],                 // L16 ILUM CRATE
-    ["UK3CB_BAF_SupplyCrate_L16_Ammo_WPSmoke",0,50,0],                      // L16 WP SMOKE CRATE
+    ["tbd_mortar_81mm_box_he",0,25,0],                                      // tbd mortars HE CRATE
+    ["tbd_mortar_81mm_box_illum",0,25,0],                                   // tbd mortars ILUM CRATE
+    ["tbd_mortar_81mm_box_smoke",0,25,0],                                   // tbd mortars WP SMOKE CRATE
     ["tbd_mortars_105mm_box",0,20,0],                                       // M119A3 HE CRATE
     ["Starstreak2_box",0,50,0],                                             // STARSTREAK II SAM Ammo (Box)
     ["B_APC_Tracked_01_CRV_F",500,250,350],                                 // CRV-6e Bobcat
