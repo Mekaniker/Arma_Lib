@@ -17,7 +17,7 @@
     The same classnames for different purposes may cause various unpredictable issues with player actions.
     Or not, just don't try!
 */
-FOB_typename = "Land_Cargo_HQ_V1_F";                                        // This is the main FOB HQ building.
+FOB_typename = "Land_Cargo_HQ_V3_F";                                        // This is the main FOB HQ building.
 FOB_box_typename = "B_Slingload_01_Cargo_F";                                // This is the FOB as a container.
 FOB_truck_typename = "UK3CB_BAF_MAN_HX58_Cargo_Sand_B_DDPM";                // This is the FOB as a vehicle.
 Arsenal_typename = "B_supplyCrate_F";                                       // This is the virtual arsenal as portable supply crates.
